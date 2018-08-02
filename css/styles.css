@@ -1,0 +1,14 @@
+.tropical {
+  color: red;
+}
+.popular {
+  color: blue;
+}
+p.tropical {
+  color: pink;
+  font-family: fantasy;
+}
+p.popular {
+  color: yellow;
+  font-family:sans-serif;
+}
